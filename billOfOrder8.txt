@@ -1,0 +1,11 @@
+Order no. 8, client no.5, date: Fri Jul 02 09:01:42 EEST 2021.
+Menu Items: 
+Coriander-Herb Spice Rub , $51.0
+Coriander-Herb Spice Rub , $51.0
+Classic Salad , $49.0
+Classic Salad , $49.0
+Arugula Salad with Heirloom Tomatoes and Red Onion , $21.0
+Arugula Salad with Heirloom Tomatoes and Red Onion , $21.0
+Cucumber Salad with Mustard Dressing , $82.0
+Cucumber Salad with Mustard Dressing , $82.0
+Final Order Price: $406.0

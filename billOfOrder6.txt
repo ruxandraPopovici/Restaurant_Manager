@@ -1,0 +1,5 @@
+Order no. 6, client no.4, date: Fri Jul 02 09:00:54 EEST 2021.
+Menu Items: 
+Potato Samosa Tartlets , $82.0
+Italian Sausage Rolls , $82.0
+Final Order Price: $164.0

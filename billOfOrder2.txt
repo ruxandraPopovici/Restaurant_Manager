@@ -1,0 +1,8 @@
+Order no. 2, client no.3, date: Fri Jul 02 08:59:29 EEST 2021.
+Menu Items: 
+Cucumber Dill Spears and Chips , $23.0
+Salsa Criolla , $28.0
+Salsa Criolla , $28.0
+Cucumber Salad with Mustard Dressing , $82.0
+Baharat Seasoning , $60.0
+Final Order Price: $221.0

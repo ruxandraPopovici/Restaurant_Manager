@@ -1,0 +1,10 @@
+Order no. 0, client no.2, date: Fri Jul 02 08:58:22 EEST 2021.
+Menu Items: 
+Cucumber Dill Spears and Chips , $23.0
+Dry Chimichurri Rub , $19.0
+Salsa Criolla , $28.0
+Italian Sausage Rolls , $82.0
+Italian Sausage Rolls , $82.0
+Italian Sausage Rolls , $82.0
+Italian Sausage Rolls , $82.0
+Final Order Price: $398.0

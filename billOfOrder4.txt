@@ -1,0 +1,5 @@
+Order no. 4, client no.4, date: Fri Jul 02 09:00:28 EEST 2021.
+Menu Items: 
+Red Pepper Sauce , $62.0
+Toasted Corn Crisps , $66.0
+Final Order Price: $128.0

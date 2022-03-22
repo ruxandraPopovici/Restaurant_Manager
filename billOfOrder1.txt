@@ -1,0 +1,13 @@
+Order no. 1, client no.2, date: Fri Jul 02 08:58:53 EEST 2021.
+Menu Items: 
+Red and Green Tomato Salsa , $38.0
+Shrimp Sates with Spiced Pistachio Chutney , $78.0
+Shrimp Sates with Spiced Pistachio Chutney , $78.0
+Fresh Corn Tortillas , $79.0
+Quick & Spicy Asian Pickles , $48.0
+Beef Stock , $26.0
+Beef Stock , $26.0
+Beef Stock , $26.0
+Dry Chimichurri Rub , $19.0
+Dry Chimichurri Rub , $19.0
+Final Order Price: $437.0

@@ -1,0 +1,6 @@
+Order no. 9, client no.6, date: Fri Jul 02 09:02:09 EEST 2021.
+Menu Items: 
+Fresh Corn Tortillas , $79.0
+Ethiopian Spice Tea , $49.0
+Spicy Pickled Shallots , $78.0
+Final Order Price: $206.0
